@@ -1,37 +1,88 @@
-## Welcome to Chenny Day GitHub Pages
+# 戴宇辰 (Chenny Day) Resume
 
-You can use the [editor on GitHub](https://github.com/chennyday/chennyday.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## 戴宇辰 (Chenny Day)                                                    
+輔仁大學 資訊管理學系 一年級 在學中
+Email: daychenny@gmail.com
+Github: https://chennyday.github.io/
+Mobile: 0905080811                                                     
+Address: 新北市新莊區新樹路 629-6號 14樓              
+Birth: 2002/06/22
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+對於程式開發有極大的興趣與熱情，希望能精進自己的資訊技術和拓展自己的視野。
+在大一上寒假時我開始參與國立臺北大學人工智慧 AI 於企業永續評比之應用研究計畫。在參與研究計畫過程中我負責網路爬蟲Python程式開發系統，為了完成研究工作內容，我利用各種網路上的資源來學習網路爬蟲所需的工具及技術，包括 Python 資料科學生態體系Pandas, BeautifulSoup, Selenium。在這次的研究過程中，我發現透過實務經驗來學習的成果非常卓越，在實際操作的過程中便能察覺到自己需要精進之處，並進而增強自己的程式開發實力。
+我希望有機會能夠進入中央研究院資訊科學研究所實習，獲得更多人工智慧 (AI) 和自然語言處理  (NLP) 研究的實務經驗，提升自己的資訊技術與研究能力。
 
-### Markdown
+###學歷：
+●	輔仁大學資訊管理學系 (2020/09 – 現在)
+●	政治大學附屬高級中學英文特色班(2017/08 – 2020/06)
+●	私立裕德雙語高級中學國中部 (2014/08-2015/06; 2017/02-2017/06)
+●	康橋國際學校國中部(2015/08-2017/01)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+###英語證照：
+●	TOEIC 895分 (2017/07) (國中升高一暑假 英語證照 TOEIC 895)
+●	Cambridge English Level 1 Certificate in ESOL International (First) (CEFR Level: B2) – Grade C (2014/05) (* 國小六年級通過 Cambridge FCE英語證照相當於TOEIC 785)
+●	Cambridge ESOL Entry Level Certificate in ESOL International (Entry 3) (CEFR Level: B1) – Pass (2013/03) (* 國小五年級通過 Cambridge PET英語證照相當於TOEIC 550)
 
-```markdown
-Syntax highlighted code block
+###專業技能：
+●	擅長程式語言：Python, Java
+●	擅長語言：Chinese, English
+●	作業系統：Windows, MacOS
+●	辦公室應用系統：Word, PowerPoint, Excel
+●	其他技能：Web Crawler, HTML, CSS, JavaScript
 
-# Header 1
-## Header 2
-### Header 3
+###工作經歷：
+●	擔任研究助理 
+o	企業永續動機、價值攸關性與人工智慧於企業永續績效評比之應用 (Corporate Sustainability: Motivations, Value Relevance, and the Application of AI in the Assessment)-
+子計畫二：人工智慧 AI 於企業永續評比之應用 
+(An application of artificial intelligence (AI) in the corporate sustainability assessment)，
+國立臺北大學 (2021/02 – 現在)
 
-- Bulleted
-- List
+工作內容說明：使用Python撰寫網路爬蟲，利用BeautifulSoup、Selenium、Pandas取得企業ESG結構化與非結構化文本資訊，並建立企業永續評分模型。
 
-1. Numbered
-2. List
+###在校經歷：
+大學：
+o	協助系主任翻譯Java原文教材投影片 (2020/03)
+o	參與全國大資盃籃球比賽 (2020/01/25)
+o	擔任大一課程代表協助授課老師班級經營 (2020/09 – 2021/01)
 
-**Bold** and _Italic_ and `Code` text
+高中：
+o	2020指考英文85.75分 (頂標82分)
+o	2020學測英文15級分 (96.7分)
+o	擔任環保股長 (2019-2020)
+o	政大附中校內英文單字比賽成績優異 (2019/09)
+o	全國高級中等學校小論文寫作比賽 優等(2019/06)
 
-[Link](url) and ![Image](src)
-```
+國中：
+o	裕德實驗高級中學品德楷模 四月誠信 (2017/05)
+o	105 學年度英文課程A2組第一次評量第一名
+o	103學年度第二學期菁英組第二次數學抽考第六名
+o	103學年度第一學期英資英文課程第三次評量第一名
+o	103學年度第一學期英資英文課程第二次評量第三名
+o	103學年度第一學期英資英文課程第一次評量第三名
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chennyday/chennyday.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+國小：
+o	新北市102學年度模範生, 榮獲 全校模範生代表, 主辦單位：新北市政府 (2014年3月29日)
+o	台北縣98學年度模範生, 榮獲 模範生, 主辦單位：台北縣政府 (2010年3月20日)
+o	新北市99學年度校園自由軟體繪圖比賽 (Scratch), 榮獲 第2名, 主辦單位：新北市政府教育局 (2011年5月24日)
+o	新北市101學年度學生美術比賽國小高年級組平面設計類, 榮獲 佳作, 主辦單位：新北市政府 (2012年12月7日)
+o	新北市100學年度國民中小學英語歌曲演唱競賽 中區 中年級組, 榮獲 特優, 主辦單位：新北市政府教育局 (2011年11月18日)
+o	新北市100學年度國民中小學英語歌曲演唱競賽 市賽國小中年級組, 榮獲 特優, 主辦單位：新北市政府教育局 (2011年12月7日)
+o	100學年四、五年級命題演說比賽, 榮獲 第1名, 主辦單位：裕德雙語小學 (2012年5月22日)
+o	100學年四、五年級英文說故事與演講比賽, 榮獲 第3名, 主辦單位：裕德雙語小學 (2012年6月29日)
+o	99學年度第二學期中年級英語朗讀比賽總決賽入圍, 榮獲 第4名, 主辦單位：裕德雙語小學 (2011年6月21日)
+o	101學年第二學期英文演講／說故事比賽, 榮獲 第3名, 主辦單位：裕德雙語小學 (2013年6月28日)
+o	100學年四年級寫字比賽（書法）, 榮獲 第2名, 主辦單位：裕德雙語小學 (2012年5月22日)
+o	裕德雙語小學3年級朗讀比賽, 榮獲 第4名, 主辦單位：裕德雙語小學 (2011年3月10日)
+o	99學年第二學期英文課程期中評量, 榮獲 第3名, 主辦單位：裕德雙語小學 (2011年5月3日)
+o	99學年第二學期英文課程期末評量, 榮獲 第3名, 主辦單位：裕德雙語小學 (2011年6月30日)
+o	100學年第一學期英文課程期中評量, 榮獲 第2名, 主辦單位：裕德雙語小學 (2011年11月8日)
+o	100學年第一學期英文課程期末評量, 榮獲 第3名, 主辦單位：裕德雙語小學 (2012年1月17日)
+o	100學年第二學期中文課程期中評量, 榮獲 第2名, 主辦單位：裕德雙語小學 (2012年5月1日)
+o	100學年第二學期英文課程期中評量, 榮獲 第2名, 主辦單位：裕德雙語小學 (2012年5月1日)
+o	100學年第二學期中文課程期末評量, 榮獲 第3名, 主辦單位：裕德雙語小學 (2012年6月29日)
+o	100學年第二學期英文課程期末評量, 榮獲 第2名, 主辦單位：裕德雙語小學 (2012年6月29日)
+o	101學年第一學期英文課程D組期中評量, 榮獲 第1名, 主辦單位：裕德雙語小學 (2012年11月13日)
+o	100學年度期末單字會考99分, 榮獲 , 主辦單位：裕德雙語小學 (2012年7月31日)
+o	裕德國民中小學品德楷模 一月尊重, 榮獲 , 主辦單位：裕德雙語小學 (2013年2月1日)
+o	裕德雙語中小學品德楷模 十一月責任, 榮獲 , 主辦單位：裕德雙語中小學 (2013年12月3日)
+![image](https://user-images.githubusercontent.com/80695174/111177071-dce58880-85e4-11eb-9997-8e30f658ca08.png)
