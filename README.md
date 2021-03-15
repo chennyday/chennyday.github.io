@@ -14,21 +14,21 @@ Birth: 2002/06/22
 
 ### 學歷：
 
-●	輔仁大學資訊管理學系 (2020/09 – 現在)
+- ●	輔仁大學資訊管理學系 (2020/09 – 現在)
 
-●	政治大學附屬高級中學英文特色班(2017/08 – 2020/06)
+- ●	政治大學附屬高級中學英文特色班(2017/08 – 2020/06)
 
-●	私立裕德雙語高級中學國中部 (2014/08-2015/06; 2017/02-2017/06)
+- ●	私立裕德雙語高級中學國中部 (2014/08-2015/06; 2017/02-2017/06)
 
-●	康橋國際學校國中部(2015/08-2017/01)
+- ●	康橋國際學校國中部(2015/08-2017/01)
 
 ### 英語證照：
 
-●	TOEIC 895分 (2017/07) (國中升高一暑假 英語證照 TOEIC 895)
+- ●	TOEIC 895分 (2017/07) (國中升高一暑假 英語證照 TOEIC 895)
 
-●	Cambridge English Level 1 Certificate in ESOL International (First) (CEFR Level: B2) – Grade C (2014/05) (* 國小六年級通過 Cambridge FCE英語證照相當於TOEIC 785)
+- ●	Cambridge English Level 1 Certificate in ESOL International (First) (CEFR Level: B2) – Grade C (2014/05) (* 國小六年級通過 Cambridge FCE英語證照相當於TOEIC 785)
 
-●	Cambridge ESOL Entry Level Certificate in ESOL International (Entry 3) (CEFR Level: B1) – Pass (2013/03) (* 國小五年級通過 Cambridge PET英語證照相當於TOEIC 550)
+- ●	Cambridge ESOL Entry Level Certificate in ESOL International (Entry 3) (CEFR Level: B1) – Pass (2013/03) (* 國小五年級通過 Cambridge PET英語證照相當於TOEIC 550)
 
 
 ### 專業技能：
