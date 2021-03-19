@@ -40,7 +40,7 @@
 
 ### 工作經歷：
 -	擔任研究助理 
-  -	企業永續動機、價值攸關性與人工智慧於企業永續績效評比之應用 (Corporate Sustainability: Motivations, Value Relevance, and the Application of AI in the Assessment)-
+    -	企業永續動機、價值攸關性與人工智慧於企業永續績效評比之應用 (Corporate Sustainability: Motivations, Value Relevance, and the Application of AI in the Assessment)-
 子計畫二：人工智慧 AI 於企業永續評比之應用 
 (An application of artificial intelligence (AI) in the corporate sustainability assessment)，
 國立臺北大學 (2021/02 – 現在)
