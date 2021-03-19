@@ -3,8 +3,8 @@
 ## 戴宇辰 (Chenny Day)                                                    
 輔仁大學 資訊管理學系 一年級 在學中<br/>
 Email: daychenny@gmail.com<br/>
-GitHub: https://github.com/chennyday/<br/>
-GitHub Pages: https://chennyday.github.io/<br/>
+GitHub: <https://github.com/chennyday/><br/>
+GitHub Pages: <https://chennyday.github.io/><br/>
 Mobile: 0905080811<br/>                                                     
 
 對於程式開發有極大的興趣與熱情，希望能精進自己的資訊技術和拓展自己的視野。
