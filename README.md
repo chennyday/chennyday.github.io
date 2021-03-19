@@ -1,10 +1,10 @@
 # 戴宇辰 (Chenny Day) Resume
 
 ## 戴宇辰 (Chenny Day)                                                    
-輔仁大學 資訊管理學系 一年級 在學中. 
-Email: daychenny@gmail.com. 
-Github: https://chennyday.github.io/. 
-Mobile: 0905080811.                                                      
+輔仁大學 資訊管理學系 一年級 在學中\
+Email: daychenny@gmail.com\
+Github: https://chennyday.github.io/\ 
+Mobile: 0905080811\                                                     
 
 對於程式開發有極大的興趣與熱情，希望能精進自己的資訊技術和拓展自己的視野。
 在大一上寒假時我開始參與國立臺北大學人工智慧 AI 於企業永續評比之應用研究計畫。在參與研究計畫過程中我負責網路爬蟲Python程式開發系統，為了完成研究工作內容，我利用各種網路上的資源來學習網路爬蟲所需的工具及技術，包括 Python 資料科學生態體系Pandas, BeautifulSoup, Selenium。在這次的研究過程中，我發現透過實務經驗來學習的成果非常卓越，在實際操作的過程中便能察覺到自己需要精進之處，並進而增強自己的程式開發實力。
