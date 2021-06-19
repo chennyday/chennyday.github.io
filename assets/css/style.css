@@ -73,7 +73,7 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 9997;
   transition: all 0.5s;
   padding: 0 15px;
-  background: #262729;
+  background: #575858;
   overflow-y: auto;
 }
 
@@ -81,7 +81,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 15px auto;
   display: block;
   width: 120px;
-  border: 8px solid #000000;
+  border: 8px solid #404041;
 }
 
 #header .profile h1 {
@@ -708,7 +708,7 @@ section {
   bottom: 0;
   width: 300px;
   z-index: 9999;
-  background: #262729;
+  background: #575858;
 }
 
 #footer .credits {
