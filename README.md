@@ -2,7 +2,7 @@
 
 ## 戴宇辰 (Chenny Day)                                                    
 輔仁大學 資訊管理學系 一年級 在學中<br/>
-Email: daychenny@gmail.com<br/>
+Email: chennyycday@gmail.com<br/>
 GitHub: <https://github.com/chennyday/><br/>
 GitHub Pages: <https://chennyday.github.io/><br/>
 Mobile: 0905080811<br/>                                                     
@@ -45,6 +45,39 @@ Mobile: 0905080811<br/>
 國立臺北大學 (2021/02 – 現在)
 
 工作內容說明：使用Python撰寫網路爬蟲，利用BeautifulSoup、Selenium、Pandas取得企業ESG結構化與非結構化文本資訊，並建立企業永續評分模型。
+
+### 作品：
+-   AISEED:
+	-   MOPS_IIC:<br>
+利用Python、BeautifulSoup、pandas、re抓取公開資訊觀測站各上市公司的法人說明會資料，並輸出成excel表格。<br>
+網址：https://github.com/chennyday/AISEED/blob/main/MOPS_IIC.py
+
+    -	MOPS_Firefox:<br>
+利用Python、selenium、re抓取公開資訊觀測站各上市公司的全體董監持股比例資料，並輸出成excel表格。<br>
+網址：https://github.com/chennyday/AISEED/blob/main/MOPS_Firefox.py
+
+    -	MOPS_Director:<br>
+利用Python、selenium、 re、pdfplumber抓取公開資訊觀測站上各上市公司出席董事資料，並輸出成excel表格。<br>
+網址：https://github.com/chennyday/AISEED/blob/main/MOPS_Director.py
+
+    -	MOPS_Vote:<br>
+利用Python、selenium抓取公開資訊觀測站上各上市公司股東常會各議案之股東同意、反對、棄權權數比例資料，並輸出成excel表格。<br>
+網址：https://github.com/chennyday/AISEED/blob/main/MOPS_Vote.py
+
+-	Python:
+   	-   網址：https://github.com/chennyday/Python 
+-	Java:
+	-   網址：https://github.com/chennyday/Java 
+-	前端網頁設計：
+	-   輔大人事室預算系統：<br>
+與同學團隊利用html、css、javascript設計，包含單位年薪預算、專任教師鐘點費預算、兼任教師鐘點費預算、年度報表、及登入系統之介面設計。<br>
+網址：https://github.com/chennyday/FJCU_HR_UI 
+
+    -	個人資料卡：<br>
+利用html、css、javascript設計，可切換日間、夜間模式。<br>
+網址：https://github.com/chennyday/IntroCard 
+
+
 
 ### 在校經歷：
 ### 大學：
